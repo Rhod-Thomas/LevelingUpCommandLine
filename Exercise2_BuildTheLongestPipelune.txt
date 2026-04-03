@@ -1,0 +1,1 @@
+do just that! use a data heavy comman, pipe it over and over and over. look at the output at each stage to build up your command
