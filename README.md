@@ -1,3 +1,1 @@
-This repo serves as a tracker for command line learnings. 
-
-Starting with fzf or fuzzy find. 
+repo for the practising of command lune fundamentals

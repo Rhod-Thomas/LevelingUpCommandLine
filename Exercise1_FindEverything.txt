@@ -1,1 +1,29 @@
-use find in all the ways that are useful. invlude other commands if necessary!
+use find in all the ways that are useful.
+
+Find follows this general pattern:
+find [where][what][action]
+
+different 'where' is fairly easy. 
+different 'what' has more options.
+and different 'actions' generally have the more complex syntax.
+
+so for [what]
+-type		
+-name		
+-iname
+-user		
+-maxdepth	
+-mmin
+-tmin
+-perm
+-empty
+-size
+-newer
+-regex
+#group logic with parenthases.
+
+and for [action]
+-printf
+-print0
+-exec
+-ls
